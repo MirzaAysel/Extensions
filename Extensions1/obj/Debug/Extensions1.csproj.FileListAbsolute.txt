@@ -1,0 +1,8 @@
+C:\Users\Aysel\source\repos\Extensions1\bin\Debug\Extensions1.exe.config
+C:\Users\Aysel\source\repos\Extensions1\bin\Debug\Extensions1.exe
+C:\Users\Aysel\source\repos\Extensions1\bin\Debug\Extensions1.pdb
+C:\Users\Aysel\source\repos\Extensions1\obj\Debug\Extensions1.csproj.AssemblyReference.cache
+C:\Users\Aysel\source\repos\Extensions1\obj\Debug\Extensions1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aysel\source\repos\Extensions1\obj\Debug\Extensions1.csproj.CoreCompileInputs.cache
+C:\Users\Aysel\source\repos\Extensions1\obj\Debug\Extensions1.exe
+C:\Users\Aysel\source\repos\Extensions1\obj\Debug\Extensions1.pdb
